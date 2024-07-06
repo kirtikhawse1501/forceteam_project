@@ -1,1 +1,2 @@
 # forceteam_project
+The MP Police Management System is a web app designed to streamline the management of daily tasks, postings, and transfers for MP Police officers. Using HTML, CSS, JavaScript for the frontend, PHP for the backend, and SQL for the database, this system automates and simplifies the assignment of daily duties, tracking of current postings, and processing of transfer requests. It saves time, maintains clear records, and enhances communication, making administrative tasks more efficient and transparent.
