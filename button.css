@@ -1,0 +1,26 @@
+
+
+#ros{
+    font-size: 60px;
+    color:darkmagenta;
+    border-color:olive;
+    background-color: aqua;
+}
+#ros:hover{
+    background-color: rgb(7, 252, 72);
+flex:10px blue;
+    border-color:cyan;
+    -webkit-transform: translateY(-10px);
+	transform: translateY(-10px);
+    box-shadow: 10px 10px 20px gold;
+}
+#ros:hover{
+   animation: blinker 1.5s linear infinite;
+    background-color:lawngreen;
+font-family: sans-serif;}
+@keyframes blinker {
+    50% {
+        opacity: 0;
+    }
+}
+
